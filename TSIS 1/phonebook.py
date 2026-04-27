@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
 """
-phonebook.py  –  Extended console phonebook (TSIS1)
-
 Features:
   • Filter by group
   • Search by email (partial match)

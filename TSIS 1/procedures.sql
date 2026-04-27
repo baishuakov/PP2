@@ -1,7 +1,3 @@
--- =============================================================
--- procedures.sql  –  PL/pgSQL stored procedures & functions
--- =============================================================
-
 -- ── 1. add_phone ──────────────────────────────────────────────
 -- Adds a phone number to an existing contact (looked up by name).
 CREATE OR REPLACE PROCEDURE add_phone(
