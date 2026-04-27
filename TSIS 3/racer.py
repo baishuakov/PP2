@@ -1,8 +1,4 @@
 """
-racer.py
---------
-Game entities and core gameplay.
-
 The world scrolls downward — the player stays on screen and the track
 moves underneath. All "speed" values are pixels per second; the main
 loop multiplies them by dt so behavior is framerate-independent.
