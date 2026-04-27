@@ -1,9 +1,4 @@
 """
-paint.py
---------
-A small Paint application built with Pygame.
-
-Features (TSIS2):
   * Pencil (freehand)
   * Straight line with live preview
   * Rectangle / Circle / Ellipse / Triangle (live preview) — all respect brush size

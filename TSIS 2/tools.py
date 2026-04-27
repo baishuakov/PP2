@@ -1,6 +1,4 @@
 """
-tools.py
---------
 Helper classes and functions for the Paint application.
 Keeps drawing-tool logic separate from the main event loop.
 """
